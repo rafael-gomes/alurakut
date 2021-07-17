@@ -1,21 +1,21 @@
 # Alurakut
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/rafael-gomes/alurakut/blob/main/LICENSE)
 
-## About
-This project was created during the Alura's React Imersion and is a Orkut clone using React
+## Sobre
+O Alurakut é um clone do antigo Orkut e o projeto foi desenvolvido durante a Imersão Alura de React.
 
-## How to use
-To run this project follow those steps:
+## Como utilizar
+Para rodar o projeto, siga os seguintes passos
 ``` bash
 
-    # Install dependecies
+    # Instalar as dependências
 
     $ yarn install
 
-    # Run
+    # Executar
     $ yarn dev
 ```
 
-## License
+## Licença
 [MIT License](https://github.com/rafael-gomes/alurakut/blob/main/LICENSE) © [Rafael Gomes](https://github.com/rafael-gomes)

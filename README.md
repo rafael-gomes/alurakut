@@ -5,6 +5,9 @@
 ## Sobre
 O Alurakut é um clone do antigo Orkut e o projeto foi desenvolvido durante a Imersão Alura de React.
 
+
+![Captura de tela](/public/imagem.png)
+
 ## Como utilizar
 Para rodar o projeto, siga os seguintes passos
 ``` bash
